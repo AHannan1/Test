@@ -1,1 +1,1 @@
-# Test project
+CTS replication script for AWS environment 
